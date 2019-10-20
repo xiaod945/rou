@@ -106,7 +106,7 @@ PS：值得一提的是克里米亚地区的小伙伴们是不能从Google play�
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 
-如有需要合租，欢迎加入<a href="https://https://t.me/hezu1" target="_blank">TG合租群</a>
+如有需要合租，欢迎加入<a href="https://t.me/hezu1" target="_blank">TG合租群</a>
 
 
 
