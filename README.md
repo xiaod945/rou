@@ -12,7 +12,7 @@
 更换账户地区
 -------
 
-这里引用知乎高赞的[办法](https://www.zhihu.com/question/21999528)
+这里引用知乎高赞的<a href="https://www.zhihu.com/question/21999528" target="_blank">办法</a>
 
 
 亲测此办法可以无限制次数换区
