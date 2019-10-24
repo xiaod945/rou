@@ -5,12 +5,15 @@
 进入play商店：https://play.google.com/settings 看页面最下面的位置
 
 
-![如箭头所示](https://s2.ax1x.com/2019/10/20/KMZ06P.jpg) 
+![如箭头所示](https://s2.ax1x.com/2019/10/24/KNLFg0.png) 
 
+
+如果你使用香港代理位置显示香港，换了澳门代理位置显示澳门，换了台湾代理位置显示台湾，说明你没有在商店里消费过，没有锁区，更换其他国家/地区的代理就可以实现更换账户地区操作。
 
 
 更换账户地区
 -------
+
 
 这里引用知乎高赞的<a href="https://www.zhihu.com/question/21999528" target="_blank">办法</a>
 
